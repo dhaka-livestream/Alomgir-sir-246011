@@ -828,8 +828,8 @@ https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/1QvR0i1.jpeg" group-title="Movie Channels",Action Hollywood 
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/kucjWb6.jpeg" group-title="Movie Channels",Star Gold
-http://198.195.239.50:8095/StarGold/index.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/kucjWb6.jpeg" group-title="Movie Channels",Star Gold hd
+http://103.102.27.173:84/STAR-GOLD-HD/tracks-v1a1/mono.m3u8
 
 #=======music=====
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/3voOzSS.jpeg" group-title="music",9xm

@@ -811,24 +811,24 @@ https://cc-wie8j8y69d2uy.akamaized.net/WWBI/Amagi/ETV_Comedy_IN/1080p-cc/index.m
 https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
 
 
-#======movie======
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Srw6nG9.jpeg" group-title="Movie",khusbu bangla
+#======movie channels======
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Srw6nG9.jpeg" group-title="Movie Channels",khusbu bangla
 https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/bQOQVXf.jpeg" group-title="Movie",G Series Drama
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/bQOQVXf.jpeg" group-title="Movie Channels",G Series Drama
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/0sxUwBQ.png" group-title="Movie",SRK Tv
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/0sxUwBQ.png" group-title="Movie Channels",SRK Tv
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/rvI8U5Q.jpeg" group-title="Movie",Goldmines
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/rvI8U5Q.jpeg" group-title="Movie Channels",Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/SfUkxM0.jpeg" group-title="Movie",Goldmines movies
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/SfUkxM0.jpeg" group-title="Movie Channels",Goldmines movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Qx4taMK.jpeg" group-title="Movie",Goldmines Bollywood 
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Qx4taMK.jpeg" group-title="Movie Channels",Goldmines Bollywood 
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/cLzOwrO.jpeg" group-title="Movie",Hindi Classic 24
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/cLzOwrO.jpeg" group-title="Movie Channels",Hindi Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/1QvR0i1.jpeg" group-title="Movie",Action Hollywood 
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/1QvR0i1.jpeg" group-title="Movie Channels",Action Hollywood 
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/kucjWb6.jpeg" group-title="Movie",Star Gold
+#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/kucjWb6.jpeg" group-title="Movie Channels",Star Gold
 http://198.195.239.50:8095/StarGold/index.m3u8
 
 #=======music=====

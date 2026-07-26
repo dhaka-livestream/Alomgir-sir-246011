@@ -730,12 +730,6 @@ https://bdx-livestream.github.io/id246011/Colorsbanglahd-2.m3u8
 https://bdx-livestream.github.io/id246011/Colorsbanglahd-3.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ya47Y5k.jpeg",[BD] colors banglahd-bdx
 https://bdx-livestream.github.io/id246011/Colorsbanglahd-bdx.m3u8
-#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colorsbanglacinema-sdr
-http://live.balajibroadband.com:3500/live/1657.m3u8
-#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-1
-https://bdx-livestream.github.io/id246011/Colorsbanglacinema-1.m3u8
-#EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-2
-https://bdx-livestream.github.io/id246011/Colorsbanglacinema-2.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/eCXxuBi.jpeg",[BD] Akash8
 https://bdx-livestream.github.io/id246011/Akash8.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/Ja6kbbt.jpeg",[BD] Enter10-Bangla
@@ -830,6 +824,23 @@ https://vods2.aynaott.com/hindimovies/index.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/kucjWb6.jpeg" group-title="Movie Channels",Star Gold hd
 http://103.102.27.173:84/STAR-GOLD-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/CiZZK3n.png",colorsbanglacinema-sdr
+http://live.balajibroadband.com:3500/live/1657.m3u8
+#EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/CiZZK3n.png",colors bangla cinema-1
+https://bdx-livestream.github.io/id246011/Colorsbanglacinema-1.m3u8
+#EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/CiZZK3n.png",colors bangla cinema-2
+https://bdx-livestream.github.io/id246011/Colorsbanglacinema-2.m3u8
+#EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/CiZZK3n.png",JalshaMovieshd-1
+
+#EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/CiZZK3n.png",JalshaMovieshd-bdx
+
+#EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/CiZZK3n.png",JalshaMovieshd-orbisp
+
+
+
+
+
+
 
 #=======music=====
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/3voOzSS.jpeg" group-title="music",9xm

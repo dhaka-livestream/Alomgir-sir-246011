@@ -752,7 +752,7 @@ https://alex4528.site/zee5/tv9-kannada/manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=de8045e9f0fbdcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.jpeg" group-title="ZEE5 LITE", &pictures HD
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.m
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=65c3633157574361b191059e46e72968:78450b11381340c297d96c13183d3744
 #EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee TV HD.png" group-title="ZEE5 LITE",Zee TV HD
